@@ -1,5 +1,8 @@
 const cardsContainer = document.getElementById('cardsContainer');
 const categoryFilter = document.getElementById('categoryFilter');
+const stickyFilter = document.getElementById('stickyFilter');
+const stickyFilterSelect = document.getElementById('stickyFilterSelect');
+const filterContainer = document.getElementById('filterContainer');
 let projects = [];
 
 function createCard(project) {
@@ -121,23 +124,66 @@ function populateCategories(projects) {
   const categories = Array.from(new Set(projectsWithNames.map(p => p.category).filter(Boolean)));
   categories.sort();
   categories.forEach(cat => {
+    // Add to main filter
     const option = document.createElement('option');
     option.value = cat;
     option.textContent = cat;
     categoryFilter.appendChild(option);
+    
+    // Add to sticky filter
+    const stickyOption = document.createElement('option');
+    stickyOption.value = cat;
+    stickyOption.textContent = cat;
+    stickyFilterSelect.appendChild(stickyOption);
   });
 }
 
-categoryFilter.addEventListener('change', () => {
-  const selected = categoryFilter.value;
-  // Filter out projects without names
+// Filter function to avoid duplication
+function filterProjects(selectedCategory) {
   const projectsWithNames = projects.filter(p => p.name && p.name.trim() !== '');
   
-  if (selected === 'all') {
+  if (selectedCategory === 'all') {
     renderCards(projectsWithNames);
   } else {
-    renderCards(projectsWithNames.filter(p => p.category === selected));
+    renderCards(projectsWithNames.filter(p => p.category === selectedCategory));
   }
+}
+
+// Sync filter selections
+function syncFilters(sourceValue) {
+  categoryFilter.value = sourceValue;
+  stickyFilterSelect.value = sourceValue;
+  filterProjects(sourceValue);
+}
+
+categoryFilter.addEventListener('change', () => {
+  syncFilters(categoryFilter.value);
+});
+
+stickyFilterSelect.addEventListener('change', () => {
+  syncFilters(stickyFilterSelect.value);
+});
+
+// Sticky filter scroll behavior
+let lastScrollY = 0;
+let isScrollingUp = false;
+
+window.addEventListener('scroll', () => {
+  const currentScrollY = window.scrollY;
+  isScrollingUp = currentScrollY < lastScrollY;
+  
+  // Get the position of the original filter
+  const filterRect = filterContainer.getBoundingClientRect();
+  const filterPassed = filterRect.bottom < 0;
+  
+  // Show sticky filter when original is out of view and scrolling up
+  if (filterPassed && isScrollingUp) {
+    stickyFilter.classList.add('visible');
+  } else {
+    stickyFilter.classList.remove('visible');
+  }
+  
+  lastScrollY = currentScrollY;
 });
 
 fetch('data/projects.json')
