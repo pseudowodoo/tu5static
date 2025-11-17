@@ -1,402 +1,394 @@
 [
   {
     "n": 1,
-    "developer": "Phua Su-Mei Andrea",
-    "category": "Govt Operations",
-    "name": "For Approval Pls - an MDDI guide to policy writing",
-    "website": "https://www.forapprovalpls.com",
-    "summary": "Policy writing and grammar resource, to help new officers understand the basics of clear and impactful writing, in the digital policy context."
+    "developer": "Heng Kang Wei",
+    "name": "Culture.SG",
+    "website": "https://culturesg.info/",
+    "summary": "Introducing Culture.SG\n\nUnified Event Aggregator – Pulls event data from NHB, NAC, community pages, and partner organisations. Users can search by date, location, event type, and language, eliminating the need to browse multiple sites.\n\nPersonalised Recommendations – Uses user preferences and past searches to suggest relevant upcoming events, improving discovery and conversion.\n\n“Random Fun Fact” Feature – Delivers bite-sized cultural trivia or heritage insights from a verified database, subtly improving users’ cultural literacy over time.",
+    "category": "Causes (Social, Environment, Sustainability)"
   },
   {
     "n": 2,
-    "developer": "Nicholas Ong Luhao",
-    "category": "Social or Family Needs",
-    "name": "PlayPalSG - Have Fun. Explore Singapore. Create Memories",
-    "website": "https://www.playpal.today",
-    "summary": "A parent's guide to playgrounds in Singapore: helping parents locate age-appropriate playgrounds for kids."
+    "developer": "Benjamin Alexander Chua",
+    "name": "Kua Si Mi",
+    "website": "http://ksm.benjaminalexanderchua.com",
+    "summary": "The Kua Si Mi (KSM) Portal is a confidential online platform designed to empower individuals to share and reflect on bullying experiences without fear of stigma or exposure. Unlike traditional reporting channels, KSM focuses on story-sharing, awareness, and early intervention (based on data trending to inform for further actions taken at community level or schools) rather than formal complaints. Users can anonymously describe incidents of bullying, harassment, or exclusion they have witnessed or experienced.\n\nThe submission is screened through an AI tool which detects harmful submissions with security features such as geographical IP restriction as this is meant for SG use only.",
+    "category": "Causes (Social, Environment, Sustainability)"
   },
   {
     "n": 3,
-    "developer": "Ho KangSheng Kenneth",
-    "category": "Food/Drinks",
-    "name": "Eatwhere",
-    "website": "https://eatwhere.food",
-    "summary": "EatWhere is a light, fun, and practical web app to help you discover good food around MDDI, especially when you're out of ideas or have teammates with different dietary needs."
+    "developer": "Jean Hui Ng",
+    "name": "",
+    "website": "",
+    "summary": "",
+    "category": "Travel and Transport"
   },
   {
     "n": 4,
-    "developer": "Leng Sze Ing",
-    "category": "Govt Operations",
-    "name": "IAD-SS Audit Service",
-    "website": "https://iad-ss.online/",
-    "summary": "This is a professional web application for GovTech IAD-SS (Information Assurance Department - Shared Services), which specializes in providing IT audit services for government agencies in Singapore. The application serves as a digital presence and service platform for their IT audit and cybersecurity services."
+    "developer": "Corale Chew",
+    "name": "",
+    "website": "",
+    "summary": "",
+    "category": "Education and Family"
   },
   {
     "n": 5,
-    "developer": "Dennis Ngo Yang Li",
-    "category": "Everyday Life (non-sports)",
-    "name": "Kiap N' Save",
-    "website": "https://kiapnsave.com",
-    "summary": "Kiap N' Save is your one-stop web app to help you track, compare and save on your groceries."
+    "developer": "Ruth Wong",
+    "name": "CoatShare (aka CanBorrow?)",
+    "website": "https://coatsharesg.lovable.app/",
+    "summary": "CoatShare connects occasional winter travellers in Singapore with coats they can borrow, rent or buy second-hand from the community.  The app recommends suitable coats based on destination and travel dates, allows side-by-side comparisons, and lets users set alerts for their desired coats – making it easy to stay warm with the cost or clutter of owning rarely-used winter wear.  The app thus provides a platform that nudges behavioural change towards sustainability, making it simple to choose sharing over buying. \nKey Features: \n•        Personalised Recommendations – Get coat suggestions tailored to your destination, travel dates and preferences. \n•        Availability Alerts – Set alerts when no coats match your needs. \n•        Easy List – List your idle coats to share with fellow travellers\n•        Community Stories – Connect with other travellers and contribute towards the movement for thoughtful travel and reducing textile waste.  \nAuthentication is needed to share or buy coats via the app.",
+    "category": "Causes (Social, Environment, Sustainability)"
   },
   {
     "n": 6,
-    "developer": "Lau Yuan Zhi",
-    "category": "Food/Drinks",
-    "name": "Best of Hokkien Mee Map",
-    "website": "https://hokkienmeego.com/",
-    "summary": "Craving for Hokkien Mee but do not know where to go?"
+    "developer": "Louis Sim",
+    "name": "SkillPathSG",
+    "website": "https://skillpathsg.lovable.app/",
+    "summary": "structred pathway and tailored courses recommendation in the digital/tech space based on user interest",
+    "category": "Work"
   },
   {
     "n": 7,
-    "developer": "Linus Lim Ji Wei",
-    "category": "Specific Activities/Hobbies",
-    "name": "CanBorrowNot?",
-    "website": "https://canborrownot.com",
-    "summary": "CanBorrowNot? is your friendly neighborhood sharing platform: find tools, gear, and everyday items from folks right around your estate."
+    "developer": "Jerald Tan",
+    "name": "",
+    "website": "",
+    "summary": "",
+    "category": "Travel and Transport"
   },
   {
     "n": 8,
-    "developer": "Tan Wie Guan",
-    "category": "Specific Activities/Hobbies",
-    "name": "ReCARvery",
-    "website": "https://autocarassist.com/",
-    "summary": "ReCARvery was created to help drivers quickly identify car problems and find appropriate repair services without the stress and confusion that often comes with vehicle breakdowns."
+    "developer": "Marcus Moo Wei Hao",
+    "name": "Lumina Sanctuary",
+    "website": "https://lumina-sanctuary-sg.lovable.app/",
+    "summary": "Lumina Sanctuary offers the new means to feel connected with the heavens through sincere prayers. One can seek clarity through divination practice and get incentivized to meditate/chant more with the chanting bank feature. There's announcement regarding latest community based event to learn about Nichiren Buddhism. For seekers of The Truth, can refer to Sutra page to learn about the ancient philosophy.",
+    "category": "Causes (Social, Environment, Sustainability)"
   },
   {
     "n": 9,
-    "developer": "Lim Cindy",
-    "category": "Food/Drinks",
-    "name": "MakanDorm",
-    "website": "https://MakanDorm.com",
-    "summary": "Makan Dorm - Your go-to recipe portal featuring easy, simple and delicious recipes for one!"
+    "developer": "Nathaniel Soon",
+    "name": "Streamlite",
+    "website": "https://streamlite.lovable.app",
+    "summary": "Streamlite is a smart streaming planner that turns what you feel like watching into a tailored viewing guide and smart subscription plan, optimising across multiple platforms so that your household get the right shows at the best value.",
+    "category": "Travel and Transport"
   },
   {
     "n": 10,
-    "developer": "Peh Chow Yoke",
-    "category": "Everyday Life (non-sports)",
-    "name": "Motivation Buddy",
-    "website": "https://motivation-buddy.com/",
-    "summary": "Let Motivation Buddy know your interest areas and you will receive uplifting messages that resonate with you at your chosen timings, helping you stay positive throughout your day."
+    "developer": "Chia Charmaine Jacqueline",
+    "name": "SubTrackLah!",
+    "website": "https://subtracklah.com/",
+    "summary": "SubTrackLah! helps busy professionals in Singapore take control of their digital spending by tracking all subscriptions in one place. From Netflix to cloud storage, it reminds you of renewals, highlights underused plans, and celebrates your savings — so you can declutter your digital life and keep more kopi money in your pocket. ☕💸",
+    "category": "Health (Mental, Physical, Financial)"
   },
   {
     "n": 11,
-    "developer": "July Xie Yue Li",
-    "category": "Specific Activities/Hobbies",
-    "name": "Teambonding",
-    "website": "https://teambonding.online/",
-    "summary": "TeamBonding Online is a comprehensive platform for event organizers in Singapore, providing users with a seamless way to browse events based on their key requirements."
+    "developer": "Gregory Loh",
+    "name": "See Lah!",
+    "website": "https://see-lah.lovable.app/",
+    "summary": "A site which hosts 3 different interactive tools. Users can use the tools immediately to create 'sessions' with their teams and they have the option to create a 'Workspace' to save sessions that they have previously conducted with their teams. \n\nWhen a user (admin) start a session, there will be a QR Code/Link which another user (participants) can log into to provide their input. After all participants have provided their input, the admin can show the combined input and facilitate a discussion based on how everyone has contributed. There are 3 different tools, i.e. 3 different types of sessions which a user can choose to start depending on the needs of his/her team.",
+    "category": "Work"
   },
   {
     "n": 12,
-    "developer": "Kerk Jun Gang",
-    "category": "Education or Work",
-    "name": "SkillsBridge",
-    "website": "https://skillsbridge.site/",
-    "summary": "SkillsBridge is an web application that allows institutes of higher learning (IHLs) to assess their curriculum against market demand."
+    "developer": "Laurentia Ho Yue Ming",
+    "name": "SGSafeHome",
+    "website": "https://sgsafehome.com/",
+    "summary": "SGSafeHome is a web-based platform that helps Singapore residents check their home safety readiness, from security measures to emergency preparedness. It provides clear, step-by-step actions to take during emergencies while waiting for help. Primary account holders can invite family members as lightweight guest profiles, who access the account via a secure invitation link without creating full accounts. This enables users and their community to share progress on the preparation checklist and emergency contacts, fostering better coordination and helping everyone be better prepared to handle emergency situations effectively.",
+    "category": "Others"
   },
   {
     "n": 13,
-    "developer": "Tan Jee How Ricky",
-    "category": "Social or Family Needs",
-    "name": "VibingSG",
-    "website": "https://www.vibingsg.me",
-    "summary": "VibingSG is a mental wellness hub designed for Singaporean teenagers to navigate the emotional ups and downs of academic life."
+    "developer": "Gogiladevi Meande",
+    "name": "LifeSwap",
+    "website": "https://www.life-swap.com/",
+    "summary": "The LifeSwap Concept\n\nLifeSwap is a platform that enables users to exchange 1–3 hour “life blocks” providing authentic micro-experiences designed for reflection, learning, and human connection. By facilitating these peer-to-peer swaps, LifeSwap cultivates serendipity, empathy, and mental renewal through lived experience.\nIn doing so, it pioneers a new “experience economy” that monetizes authenticity and shared humanity, not just curated moments.",
+    "category": "Causes (Social, Environment, Sustainability)"
   },
   {
     "n": 14,
-    "developer": "Heng Wee Meng Samuel",
-    "category": "Everyday Life (non-sports)",
-    "name": "GiftWise",
-    "website": "",
-    "summary": ""
-  },
-  {
-    "n": "14a",
-    "developer": "Chen Shu'en Rachel",
-    "category": "Social or Family Needs",
-    "name": "Digital Parents",
-    "website": "https://techuptardigrade.online",
-    "summary": ""
+    "developer": "Ang Xinyao Desmond",
+    "name": "Race Radar SG",
+    "website": "https://raceradarsg.com/",
+    "summary": "An app where races are reviewed on 4 metrices on whether it is conducive to chase a fast time.\n\nThey are:\n1) Race Organisation\n2) Distance Accuracy\n3) Aid Station\n4) Course Conditions\n\nWhere for (4), it is further broken down to:\na) Flatness\nb) Bottlenecks\nc) Road Closure\n\nThis app is community-driven, by runners for runners in bid to (1) help competitive runners go to well organised races to run fast and (2) for organisers to see this platform as feedback and over time improve race organising and hence increase overall racing performance in Singapore",
+    "category": "Everyday Life"
   },
   {
     "n": 15,
-    "developer": "Wendy Foo",
-    "category": "Food/Drinks",
-    "name": "Protein Picks",
-    "website": "https://proteinpicks.com",
-    "summary": "Helping busy professionals find protein-packed hawker meals"
+    "developer": "Clare Ng Shi Duan",
+    "name": "Weekend Playbook",
+    "website": "https://weekend-playbook.com/",
+    "summary": "Weekend Playbook creates customised schedules for parents of children aged 2-12 that incorporate age-appropriate screen time, sleep and physical activity hours, helping parents build confidence in managing their child's digital habits and reduce weekend screen time.",
+    "category": "Education and Family"
   },
   {
     "n": 16,
-    "developer": "Tan Hann Yee",
-    "category": "Health & Sports",
-    "name": "Discharge Advice",
-    "website": "https://techupdischarge.com/",
-    "summary": "Simplifies hospital discharge by providing patients with a single, accessible, and easy-to-understand platform for all their discharge instructions."
+    "developer": "Ho Cher Kee Andy",
+    "name": "MRT Which Door",
+    "website": "https://mrtwhichdoor.com",
+    "summary": "Find the best door for faster transfers and exits on Singapore MRT",
+    "category": "Travel and Transport"
   },
   {
     "n": 17,
-    "developer": "Nathanael Tan Huai En",
-    "category": "Food/Drinks",
-    "name": "DishCover",
-    "website": "https://dishcover.org/",
-    "summary": ""
+    "developer": "Ratna Sari Binte Mohamed Hashim",
+    "name": "My Travel Journal",
+    "website": "https://sentiment-travel.com",
+    "summary": "My Travel Journal (Your digital companion to capture, organise, and relive every journey.)\n\nMy Travel Journal unifies key aspects of travel (destinations, photos, reflections, and spending) into one intelligent platform. It transforms scattered travel data into cohesive visual stories, allowing travellers to document, analyse, and share their experiences effortlessly. With built-in analytics and AI insights, users gain a clearer view of their travel patterns, mindful spending habits, and meaningful memories - all in one place.",
+    "category": "Travel and Transport"
   },
   {
-    "n": "18a",
-    "developer": "Lee Han Chuan",
-    "category": "Education or Work",
-    "name": "There's Something about AI",
-    "website": "https://somethingaboutai.app/",
-    "summary": "A web app that allows users to enter a single AI prompt/queries and the app will auto submit to multiple AI engines and display the results on the page."
+    "n": 18,
+    "developer": "Loh Mun Yew",
+    "name": "Convoy Kaki",
+    "website": "https://convoykaki.replit.app",
+    "summary": "Convoy Kaki centralizes convoy coordination through automated matching and unified \ntrip itinerary (eliminating WhatsApp chaos); provides real-time Open Charge Map API \ncharging visibility with \"who's charging where\" coordination (preventing checkpoint \nstation crowding); surfaces destination recommendations during convoy formation \n(enabling pre-trip planning vs post-arrival browsing); includes interactive VEP/\nborder checklists 48h before departure; and integrates SeaLion AI assistant for \ncustoms/immigration support, Malaysian food culture guidance (halal options, \nregional specialties, dining etiquette), and culturally-aware local insights—\nreducing trip anxiety, coordination delays, and cultural missteps while building \nconfidence for repeat cross-border exploration.",
+    "category": "Travel and Transport"
   },
   {
     "n": 19,
-    "developer": "Bay Chun How",
-    "category": "Education or Work",
-    "name": "Towkay Armour",
-    "website": "https://www.towkayarmour.com",
-    "summary": ""
+    "developer": "Cornelius Chan",
+    "name": "Don't Waste Food Lah",
+    "website": "https://dontwastefoodlah.com/",
+    "summary": "The app will be a match-making app between event organisers and users associated with an organisation. The app is intended to function with minimal inputs from users, event organisers and organisations to encourage adoption. Users can register as a food recipient and associate themselves with up to 3 organisations. Other users who organise events can use the same app to create events and broadcast alerts when there is excess food available for consumption.",
+    "category": "Causes (Social, Environment, Sustainability)"
   },
   {
     "n": 20,
-    "developer": "Zhi Wen",
-    "category": "Health & Sports",
-    "name": "CasualFitnessDiary",
-    "website": "https://casualfitnessdiary.com/",
-    "summary": "One place for everything: GPS-tracked cardio and strength workouts in one simple, intuitive interface."
+    "developer": "Lee Ying Ying",
+    "name": "AI@Work Navigator",
+    "website": "https://aiforu.tech/",
+    "summary": "Personalised recommendations: web app uses a quiz to personalise recommendations for users in the functional domains, and the curated information can directly help them in improving their productivity at work.\n\nComprehensive information in one-stop: The website compiled information from the web which include courses, tools, and workflows, that can help professionals across HR, Legal, Marketing, and Accounting embrace AI and GenAI technologies to improve efficiency. there are also information on ethical considerations of AI in their day-to-day workflows.\n\nEvery business will have these functional roles. This webapp will be useful even for the smallest SME.",
+    "category": "Everyday Life"
   },
   {
     "n": 21,
-    "developer": "Oliveiro Vernie Alison",
-    "category": "Education or Work",
-    "name": "Check Own Shelf",
-    "website": "https://www.checkownshelf.com",
-    "summary": "Check Own Shelf allows users to check whether they own a book and add books to their account"
+    "developer": "Tan Jing Yu William",
+    "name": "BotaniCare",
+    "website": "https://botanicare.online/",
+    "summary": "BotaniCare helps users keep track of their plants with simple tools for logging watering and fertilising, along with clear care histories.\n\nA built-in Telegram bot can send daily care reminders and weather-based alerts, which are especially useful for outdoor setups.\n\nUsers can organise plants into Groups and mark each group as Indoor or Outdoor, with weather notifications sent only to outdoor groups.\n\nBotaniCare also includes a plant diary, where users can record notes and photos to document growth, troubleshoot issues, or track changes over time. Diary entries can be shared directly with the community, creating a space where users learn from each other through real examples, updates, and discussions.\n\nA straightforward tool for users managing anything from a small indoor collection to a larger outdoor garden.",
+    "category": "Everyday Life"
   },
   {
     "n": 22,
-    "developer": "Tan Zhixin Jamin",
-    "category": "Food/Drinks",
-    "name": "Cellars.me - your cellar, anywhere",
-    "website": "https://cellars.me",
-    "summary": "Cellars.me tracks what's in your cellar, anywhere you go."
+    "developer": "Ng Yu Xin, Karen",
+    "name": "That Time We",
+    "website": "https://thattimewesg.com/",
+    "summary": "That Time We is an AI-assisted journaling web app that makes it easy to compile, caption, and relive shared memories. It transforms scattered photos, videos, and thoughts into organised, story-rich journals that can be revisited at any time. Users can create folders, add captions, locations, and tags, and co-curate albums without the clutter or privacy concerns of social media. With AI-powered features and a visual, low-effort design, it helps users of all ages — from seniors to families — to cultivate the habit of journaling and collate treasured memories in a single digital space.",
+    "category": "Health (Mental, Physical, Financial)"
   },
   {
     "n": 23,
-    "developer": "Tan Kok Heng Daniel",
-    "category": "Everyday Life (non-sports)",
-    "name": "Can Retire Meh?",
-    "website": "https://www.canretiremeh.com",
-    "summary": "A one-stop web app that allows working Singapore citizens who are worried about financial planning for their retirement."
+    "developer": "Douglas Goh",
+    "name": "My DigitLife Compass",
+    "website": "",
+    "summary": "The MyDigitaLife Compass web app aims to streamline workflow by providing a single, seamless platform for Digital Ambassadors to engage seniors more effectively during community outreach events. \nIt reduces manual steps, improves consistency of engagement, and enhances seniors’ overall experience. It also empowers DAs with real-time information, shortens engagement cycles, and aims to raise the current 10% conversion rate to at least 30%.",
+    "category": "Work"
   },
   {
     "n": 24,
-    "developer": "Wong Chun Mun Reuben",
-    "category": "Social or Family Needs",
-    "name": "KopiBuddy",
-    "website": "https://www.KopiBuddy.com",
-    "summary": "Curated Videos: Short, engaging educational content to help teens understand stress, emotions, and healthy coping."
+    "developer": "Jeffrey Lee",
+    "name": "RetireReady",
+    "website": "https://sgretireready.com/",
+    "summary": "The webapp provides a Retirement Readiness Score to help working adults aged between 25 to 60 to achieve their desired retirement lifestyle according to their preferred retirement age. The application gathers key financial and lifestyle indicators - such as savings, investments, insurance converage, debts and retirement goals and converts them into a Readiness Score. Users can explore personalised recommedations, adjust lifestyle or financial inputs, and visualise how these changes impact their retirement outlook, enabling them to make informed decisions on their lifestyle.",
+    "category": "Health (Mental, Physical, Financial)"
   },
   {
     "n": 25,
-    "developer": "Hon Song Wen",
-    "category": "Social or Family Needs",
-    "name": "Play SG",
-    "website": "https://playsg.xyz",
-    "summary": "Play SG is a web application designed specifically for Singapore residents to help them efficiently plan itineraries for foreign visitors. "
+    "developer": "Edmund Cheong",
+    "name": "MyMakanMap",
+    "website": "https://mymakanmap.com/",
+    "summary": "A personal restaurant wishlist that lets diners save discovered restaurants, view them on a list and map, and filter by location, price, or cuisine for quick selection.",
+    "category": "Everyday Life"
   },
   {
     "n": 26,
-    "developer": "Low Rui Ru",
-    "category": "Health & Sports",
-    "name": "Court Time",
-    "website": "https://courttime.info",
-    "summary": "A web app to enable users to find tennis instuctors that meet their needs, so they save time on searching across different platforms. "
+    "developer": "Justyn Lim Lai Fu",
+    "name": "CaseSync",
+    "website": "https://casesync.lovable.app/",
+    "summary": "A web application that consolidates fragmented student support workflows into a single collaborative system for Case Management Teams. Features dual architecture supporting both student-centric profiles for ongoing cases and incident-centric logging for discrete events, with real-time cross-role collaboration, privacy-protected referrals, AI-powered intervention recommendations, and mobile-responsive access. Transforms case management from a fragmented 5-8 hour weekly process into a coordinated workflow under 3 hours, ensuring vulnerable students receive timely support without repeatedly sharing traumatic experiences across different staff members.\n\nCore Value: Reduces administrative burden while enabling coordinated student support through unified data access and seamless collaboration.",
+    "category": "Work"
   },
   {
     "n": 27,
-    "developer": "Nathanael Hoe Tze Rong",
-    "category": "Everyday Life (non-sports)",
-    "name": "Breached Liao",
-    "website": "https://breachedliao.online",
-    "summary": "A user-friendly web application that enables individuals to easily check if their email address has been exposed in data breaches, spam databases, or leaked repositories."
+    "developer": "Ng Shi Kai",
+    "name": "CardLobang",
+    "website": "https://cardlobang.lovable.app/",
+    "summary": "CardLobang eliminates decision paralysis for young Singaporeans by instantly calculating their Estimated Annual Financial Benefit and recommending the single most rewarding entry-level credit card for their unique spending habits, driving confident applications.",
+    "category": "Health (Mental, Physical, Financial)"
   },
   {
     "n": 28,
-    "developer": "Amritpal Singh Khaira",
-    "category": "Govt Operations",
-    "name": "IR Pulse (International Relations Pulse)",
-    "website": "https://irpulse.online/",
-    "summary": "IR Pulse is designed to address information overload for Singapore civil servants in international relations roles."
+    "developer": "Muhammad Fazli Hamdan",
+    "name": "CleanCompare.sg",
+    "website": "https://cleancomparesg.lovable.app",
+    "summary": "Compare. Choose. Clean.\nSingapore’s easiest way to find trusted cleaning pros.",
+    "category": "Everyday Life"
   },
   {
     "n": 29,
-    "developer": "Lam Hung Tak Louis",
-    "category": "Food/Drinks",
-    "name": "FreeWaterWhere?",
-    "website": "https://freewaterwhere.com/",
-    "summary": "FreeWaterWhere? is an app for Singapore that addresses hydration challenges for delivery riders, outdoor exercisers, and tourists"
+    "developer": "Lisa Chin",
+    "name": "VoucHere",
+    "website": "https://cdcvouchere.com/",
+    "summary": "VoucHere helps users find places to use their SG60 vouchers by showing users places near them where they can use their vouchers. The filters tailored to popular preferences (Halal, vegetarian, cafes) help the user further narrow their search.",
+    "category": "Everyday Life"
   },
   {
-    "n": "30a",
-    "developer": "Siar Hao Ken, Leonard",
-    "category": "Education or Work",
-    "name": "all ears helpdesk",
-    "website": "https://allears-support.online/",
-    "summary": "These days, teachers just want quick help, but sometimes, getting support takes too many emails, unclear steps, and way too much waiting, just to fix something small. That’s what the Helpdesk Support Assistant is here to solve."
+    "n": 30,
+    "developer": "Leonie Tan",
+    "name": "Next Chapter",
+    "website": "https://nextchaptersg.lovable.app/",
+    "summary": "Next Chapter is a web application that connects retired PMETs with volunteer opportunities that match their interests, skills and availability, helping them rediscover purpose while making a meaningful impact in the community after leaving the workforce. The application allows users to sign up for volunteering opportunities, invite friends to join in the volunteering events and share their experiences to inspire others. Community agencies can also participate through a dedicated portal where they post opportunities and manage volunteer sign-ups.",
+    "category": "Causes (Social, Environment, Sustainability)"
   },
   {
     "n": 31,
-    "developer": "Bee Lian Doreen, Tan",
-    "category": "Food/Drinks",
-    "name": "Where to eat JB",
-    "website": "https://wheretoeatjb.food/",
-    "summary": "Fast Recommendations"
+    "developer": "Chua Chong Tzeh",
+    "name": "",
+    "website": "",
+    "summary": "",
+    "category": "Work"
   },
   {
     "n": 32,
-    "developer": "Lim Hwee Hua",
-    "category": "Social or Family Needs",
-    "name": "Inventree",
-    "website": "https://www.inventre-e.com",
-    "summary": "InvenTree is a household inventory manager built for busy families, especially working parents with young children and helpers managing daily chores."
+    "developer": "Pei En",
+    "name": "",
+    "website": "https://tuneyourvoice.me",
+    "summary": "Harmonix: Interactive Vocal Training App \n\nHarmonix is a web-based singing training application that helps users develop their pitch accuracy and harmony skills through interactive exercises. The app uses your device's microphone to listen to your singing in real-time and provides instant feedback on your performance.\n\nHow it works:\n1.        Onboarding: When you first use the app, you select your voice type (male or female) so the exercises are calibrated to a comfortable pitch range for you. The app then tests your microphone to ensure it can hear you properly.\n\n2.        Progressive Learning Path: The app has three levels that gradually increase in difficulty:\n•        Level 0: Pitch matching basics - You sing simple sustained notes to develop pitch accuracy\n•        Level 1: Melody singing - You learn to sing familiar melodies note-by-note\n•        Level 2: Harmony training - You sing harmony notes (like major and minor thirds) while the app plays a reference melody\n\n3.        Real-time Feedback: As you sing, the app analyzes your voice using pitch detection technology and shows:\n•        Visual feedback on whether you're hitting the right notes\n•        Your pitch compared to the target pitch (with visual bars and graphs)\n•        Helpful hints and encouragement from an animated mascot character\n•        Progress tracking showing your accuracy scores\n\n4.        Adaptive Difficulty: You need to achieve certain scores to unlock higher levels. The app tracks your best performances and lets you retry exercises to improve.",
+    "category": "Everyday Life"
   },
   {
     "n": 33,
-    "developer": "Foo Hui Hui",
-    "category": "Food/Drinks",
-    "name": "Kitchen Tracker",
-    "website": "https://kitchenfood.life/",
-    "summary": "The web app aids in tracking the food items in the kitchen"
+    "developer": "Joni Pek",
+    "name": "Fit5",
+    "website": "https://fit5sg.com",
+    "summary": "A  wellness platform designed for busy Singaporeans, integrating five key pillars: Move (动), Eat (吃), Nourish (养), Calm (静) and Rest (休). Fit5 delivers bite‑sized, practical wellness tasks that fit seamlessly into daily routines—whether you’re commuting, working, or winding down. Fit5 helps you build healthy habits without overwhelming your schedule.\n\nBy focusing on small, consistent actions rather than lengthy routines, Fit5 makes wellness accessible, sustainable and efficient—so you can prioritise your physical health (without needing to be an expert) and feel better each day.",
+    "category": "Health (Mental, Physical, Financial)"
   },
   {
     "n": 34,
-    "developer": "Goh Hian Pin Alex",
-    "category": "Govt Operations",
-    "name": "Findaseat",
-    "website": "https://findaseat.xyz",
-    "summary": "Findaseat is a carpool coordination app designed to help election officials in Singapore secure reliable transport to their GARO centre on polling day."
+    "developer": "Vi Ting",
+    "name": "",
+    "website": "",
+    "summary": "",
+    "category": "Work"
   },
   {
     "n": 35,
-    "developer": "Kaylynn",
-    "category": "Specific Activities/Hobbies",
-    "name": "FoodReconnect",
-    "website": "https://foodreconnect.com/",
-    "summary": "FoodReconnect helps event organizers quickly redistribute surplus food to nearby users, reducing food waste."
+    "developer": "Siti Hamimah Aminuddin",
+    "name": "GiftSG",
+    "website": "https://shopgiftsg.com/",
+    "summary": "GiftSG is a one-stop social gifting platform that helps corporate staff easily discover and purchase meaningful gifts from multiple social enterprises in Singapore. Users can browse curated items from crafts to corporate sets, view each product’s social impact, and check out with consolidated payment and delivery. By simplifying procurement and giving equal visibility to both large and small non-profits, the platform enables companies to fulfil CSR goals while supporting diverse beneficiary communities.",
+    "category": "Causes (Social, Environment, Sustainability)"
   },
   {
     "n": 36,
-    "developer": "Serene Law Suling",
-    "category": "Everyday Life (non-sports)",
-    "name": "Declutterly.space",
-    "website": "https://www.declutterly.space/",
-    "summary": "Declutterly.space helps one explore options for what to do and where to go with old items, from large appliannces to small gadgets or old batteries, be it to recycle, repair or donate."
+    "developer": "Victoria Quek",
+    "name": "Orbit",
+    "website": "https://orbit-sg.lovable.app/",
+    "summary": "Orbit is a social fitness web app that helps busy working adults stay consistent through community and accountability. Users can create and share workouts, find partners with similar schedules, and join sessions happening soon to overcome decision fatigue. The app also features likes, comments, and streak celebrations to keep motivation high, and a 6-month visual progress tracker to monitor consistency over time.",
+    "category": "Everyday Life"
   },
   {
     "n": 37,
-    "developer": "Koh Chee Hong",
-    "category": "Health & Sports",
-    "name": "GoWhereRide",
-    "website": "https://www.gowhereride.com",
-    "summary": "A one-stop web app that can help beginner cyclists to kickstart his/her personal cycling journeys."
+    "developer": "Andy Phang",
+    "name": "Sgcarhub",
+    "website": "https://sgcarhub.lovable.app/",
+    "summary": "SGcarhub is a one-stop car forums that targets to cover all car models sold in Singapore which will allow car owners/users to \n(i) obtain useful car related info which will help all local car owners/users in their car ownership journey such as good deals like car tires, legal performance parts, good external workshops that have experts in dealing with their car models' maintenance issues, etc.; and \n(ii) form an integrated local car community where it gathers all local car owners/users together and organise car related community events like short food trips in Malaysia, cross country travel to Thailand, tracking event in Sepang circuit, etc. to foster community bonding. \n\nCar owners/users will no longer need to spend time searching across overlapping, unverified or even false online sources for information on their cars and feel that they are always on their own in the car ownership journey.",
+    "category": "Travel and Transport"
   },
   {
     "n": 38,
-    "developer": "Yip Ka Man",
-    "category": "Social or Family Needs",
-    "name": "SG Nursing Rooms",
-    "website": "https://sgnursingrooms.com/",
-    "summary": "A nursing room finder to help mothers with young children find accessible and comfortable nursing rooms throughout Singapore"
+    "developer": "Gokul Rajendran",
+    "name": "",
+    "website": "",
+    "summary": "",
+    "category": "Work"
   },
   {
     "n": 39,
-    "developer": "Ang Jia Lu",
-    "category": "Food/Drinks",
-    "name": "Lunch? Aha!",
-    "website": "https://lunchaha.com/",
-    "summary": "This web app can help busy professionals at Mapletree Business City quickly discover satisfying lunch options without the stress of overthinking or wasting time."
+    "developer": "Nicolas Bureau",
+    "name": "Odyssey",
+    "website": "https://techup5-odyssey.com/",
+    "summary": "Odyssey streamlines IMDA’s content workflows by centralising briefs, edits, approvals and version tracking into one clear process for the Communications and Marketing team and all Business Lines. It replaces lengthy email back-and-forth among all parties with clear stages, defined roles, and automated reminders that speed up collaboration and reduce rework. Online annotation on webpage and social post previews makes feedback simpler, and the built-in AI assistant suggests draft captions and web articles in IMDA’s tone and social personas, giving every team member a consistent base to build from.\n\n\nFeature summary (no login):\nhttps://techup5-odyssey.com/feature-summary\n\nBedtime story (no login):\nhttps://techup5-odyssey.com/user-manual",
+    "category": "Work"
   },
   {
     "n": 40,
-    "developer": "Ooi Chih Chong",
-    "category": "Govt Operations",
-    "name": "CDA Audit Tracker",
-    "website": "https://cdaaudittracker.xyz/",
-    "summary": "A centralised audit tracker that enhances milestone monitoring with real-time dashboards, visualising audit statuses, delays, and risks at a glance—enabling early leadership intervention."
+    "developer": "Rebekah Tan",
+    "name": "From Dusk to Dawn",
+    "website": "https://from-dusk-to-dawn.lovable.app",
+    "summary": "From Dusk to Dawn is a web app supporting young mothers through pregnancy loss with grief journey tracking and access to curated community support groups, professional help and resources to facilitate healing at their own pace.",
+    "category": "Health (Mental, Physical, Financial)"
   },
   {
     "n": 41,
-    "developer": "Megawati Binte Othman",
-    "category": "Govt Operations",
-    "name": "PQ Pal",
-    "website": "https://pqpal.info",
-    "summary": "PQ Pal is a user-friendly web app designed to streamline the process of handling parliamentary question (PQs) for new policy officers."
+    "developer": "Ng Yong He",
+    "name": "Taste of Home",
+    "website": "https://s-voice-cookbook.lovable.app",
+    "summary": "Taste of Home helps families preserve and share their culinary heritage. The app makes it easy for seniors to record their recipes using voice, photos, and text inputs, ensuring that no family favourite is ever lost. From traditional family staples to modern household favourites, each recipe captures the warmth and story behind every dish. Family members can browse, try, and celebrate these recipes together, creating a living cookbook that grows with each generation. With Taste of Home, passing down recipes becomes more than just sharing food. It’s preserving memories, culture, and love through cooking. Taste of Home is available in all 4 official languages and is mobile responsive to improve accessibility to Singaporean seniors.",
+    "category": "Education and Family"
   },
   {
     "n": 42,
-    "developer": "Sarah Lim Jin Ee",
-    "category": "Health & Sports",
-    "name": "Workout Wizard",
-    "website": "https://workout-wizard.xyz",
-    "summary": "Workout Wizard eliminates decision fatigue by generating personalised workouts in seconds."
+    "developer": "Jacqueline Salim",
+    "name": "setgo!",
+    "website": "https://setgo.app/",
+    "summary": "SetGo! is a family-oriented web application designed to help children aged 9-12 develop time management skills and earn rewards for completing daily activities. The app combines scheduling, gamification, and parental oversight into an engaging platform that teaches responsibility.",
+    "category": "Education and Family"
   },
   {
     "n": 43,
-    "developer": "Geow Chai Ling Jeelin",
-    "category": "Everyday Life (non-sports)",
-    "name": "Brew My Pass",
-    "website": "https://brewmypass.today/",
-    "summary": "Brew Your Pass is a mobile-friendly web app designed for digital natives in Singapore (aged 18–59) who want strong, memorable passwords without the hassle."
+    "developer": "Loo Ruiqi",
+    "name": "Collaterals Must Share",
+    "website": "https://comush.com/",
+    "summary": "Collaterals Must Share (CoMuSh) is a platform that facilitates the sharing of collaterals between teams while ensuring accurate stocktaking. It helps officers preparing for events easily identify existing collaterals suitable for use, seek the necessary approval to use the collaterals, and return any unused collaterals after events. It is currently tailored to the Translation Department but could potentially serve more teams.",
+    "category": "Work"
   },
   {
     "n": 44,
-    "developer": "Lee Wey Ting",
-    "category": "Everyday Life (non-sports)",
-    "name": "CareAhead Planner",
-    "website": "https://www.careapp.life/",
-    "summary": "CareAhead Planner is a user-friendly platform to help users understand the importance of end-of-life care planning"
+    "developer": "Eric Chua",
+    "name": "SgSchoolfinder by PT",
+    "website": "https://sgschoolfinder-pt.com/",
+    "summary": "sgschoolfinder-pt is a webtool that allows parents of P5/P6 students to shortlist secondary schools based on public transport accessibility from their homes. Parents and their children can further refine this shortlist by 2 additional important criteria - PSLE cut-off points and CCA availability. \n\nThis shortlisting tool can be useful when 1) parents of P6 students have to submit 6 ranked schools during the Sec 1 posting exercise following the release of PSLE results, 2) parents and their P5/P6 students are shortlisting schools to visit for respective open houses. \n\nThis tool complements MOE's schoolfinder website which parents can use to find out more information about their shortlisted schools.",
+    "category": "Education and Family"
   },
   {
     "n": 45,
-    "developer": "Kau Chee Boon Kelvin",
-    "category": "Everyday Life (non-sports)",
-    "name": "Donate To Who",
-    "website": "https://donate-to-who.com/",
-    "summary": "Donate To Who is a one-stop webpage to match items to be donated to the donation centres which accept the items."
+    "developer": "Francis Lim",
+    "name": "CareConnect SG",
+    "website": "https://elder-ease-sg.lovable.app",
+    "summary": "CareConnect SG eliminates the research burden for family caregivers by consolidating Singapore's fragmented eldercare resources into one intelligent platform. Instead of spending 15-20 hours researching across multiple government agencies, caregivers receive instant, personalised matches to relevant grants, services, and support programmes based on their specific situation. The platform transforms complex navigation and information-gathering into a simple, streamlined experience that connects families directly to the government support they need.",
+    "category": "Education and Family"
   },
   {
     "n": 46,
-    "developer": "Yang Shuhuan Jasmine",
-    "category": "Health & Sports",
-    "name": "LoveProtein",
-    "website": "https://loveprotein.org",
-    "summary": "A no-login web app that lets users upload a photo of their meal to instantly estimate its protein content."
+    "developer": "Daniel Koh",
+    "name": "InTouch Again",
+    "website": "https://intouchagain.com",
+    "summary": "InTouch Again is a relationship rekindling platform that helps mid-life adults in Singapore overcome the awkwardness of reconnecting with old friends, former colleagues, and past acquaintances.\n\nIt provides guided reflection prompts to recall meaningful memories, pre-written message templates to reduce the intimidation of reaching out, calendar integration for concrete meetup scheduling, and progress tracking with milestones to transform social intentions into consistent action. Ultimately addressing the emotional inertia that causes years of social drift and increased loneliness",
+    "category": "Causes (Social, Environment, Sustainability)"
   },
   {
     "n": 47,
-    "developer": "Lim Yun Zhen",
-    "category": "Govt Operations",
-    "name": "Approver Tracker",
-    "website": "https://approvertracker.space",
-    "summary": ""
+    "developer": "Eda Pan",
+    "name": "One-stop cross-border taxis from anywhere in Singapore to Johor (Larkin).",
+    "website": "https://sg-my-taxis.lovable.app",
+    "summary": "A one stop platform for passengers to get Singapore licenced cross-border taxis from any part of Singapore to Johor (Larkin).",
+    "category": "Travel and Transport"
   },
   {
     "n": 48,
-    "developer": "Heng Yan Si",
-    "category": "Education or Work",
-    "name": "LinkUp",
-    "website": "https://techuplinkup.com/",
-    "summary": "Matching mentors and mentees based on compatibility"
+    "developer": "Odele Pang",
+    "name": "PantryPal",
+    "website": "https://pantrypal-app.com",
+    "summary": "PantryPal helps users keep track of the food in their kitchens to reduce preventable food waste (i.e. uncooked or unconsumed food). Users record the items they have, along with expiry dates.\n\nThe app features an email notification system that sends alerts to users to remind them of items that are about to expire, ensuring nothing gets forgotten and wasted. It also tracks discarded items and analyses this data to show users their most common source of food waste and estimated money wasted, to help shape their behaviour. Users can also access food storage guidance to learn how to reduce food spoilage.\n\nTogether, these features help users reduce preventable food waste through better kitchen management.",
+    "category": "Causes (Social, Environment, Sustainability)"
   },
   {
-    "n": 62,
-    "developer": "Vicky Wang Xiaoqing",
-    "category": "Social or Family Needs",
-    "name": "Gift Finder",
-    "website": "https://www.GiftFinder.space",
-    "summary": "Fret not! Gift Finder app will shortcut the gift-buying process by using AI to power gift recommendations"
+    "n": 49,
+    "developer": "Weina Lai",
+    "name": "ChaTea",
+    "website": "https://chatea.lovable.app/",
+    "summary": "ChaTea bridges the Chinese tea discovery gap by matching tea-curious beginners with teas they'll love through personalized taste-matching and brewing guidance, while helping seasoned drinkers validate quality through community-validated, tea-specific reviews.  It solves for both the \"where do I start?\" and \"is this tea actually good?\" problems in one accessible platform.",
+    "category": "Everyday Life"
   }
 ]
