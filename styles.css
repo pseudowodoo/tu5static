@@ -321,18 +321,22 @@ select:focus {
   border: 1px solid var(--gray-200);
   padding: var(--space-md) var(--space-lg);
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: var(--space-md);
+  gap: var(--space-sm);
+  max-width: 90vw;
+  width: auto;
 }
 
 .filter-sticky label {
   margin: 0;
-  font-size: 0.875rem;
+  font-size: 0.8rem;
   font-weight: 600;
   color: var(--gray-700);
-  white-space: nowrap;
+  text-align: center;
 }
 
 .filter-sticky select {
-  min-width: 200px;
+  min-width: 180px;
+  max-width: 100%;
 }
