@@ -18,17 +18,17 @@
   {
     "n": 3,
     "developer": "Jean Hui Ng",
-    "name": "",
-    "website": "",
-    "summary": "",
+    "name": "Roll With It",
+    "website": "https://rollwithit.app/",
+    "summary": "Roll With It is a web app that helps parents with prams quickly pivot when their journeys are interrupted by MRT train delays, train breakdowns, lift breakdowns, or maintenance. It provides one-stop real-time updates, with step-free reroutes to nearby accessible routes and destinations, saving valuable time and reducing stress.",
     "category": "Travel and Transport"
   },
   {
     "n": 4,
     "developer": "Corale Chew",
-    "name": "",
-    "website": "",
-    "summary": "",
+    "name": "Gowherestudy",
+    "website": "https://gowherestudy-sg.com/",
+    "summary": "The app aims to help secondary school students in Singapore struggling with post-secondary education decisions make informed decisions through assessing their interests and study preferences to recommend post secondary school options. ",
     "category": "Education and Family"
   },
   {
@@ -242,9 +242,9 @@
   {
     "n": 31,
     "developer": "Chua Chong Tzeh",
-    "name": "",
-    "website": "",
-    "summary": "",
+    "name": "BuildWhat.sg",
+    "website": "https://abc--ctdemo.app.tc1.airbase.sg/",
+    "summary": "Marketplace to connect product builders and user testers.",
     "category": "Work"
   },
   {
@@ -266,9 +266,9 @@
   {
     "n": 34,
     "developer": "Vi Ting",
-    "name": "",
-    "website": "",
-    "summary": "",
+    "name": "Find My Kaki!",
+    "website": "https://find-my-kaki.com/",
+    "summary": "A digital platform specificially designed around MDDI officer's preferences, adressing current gaps in cross-division connection and workplace friendships. With 'Find My Kaki', officers can have a low-pressure and interest-based channel to make new friends beyond their own divisions.",
     "category": "Work"
   },
   {
@@ -298,9 +298,9 @@
   {
     "n": 38,
     "developer": "Gokul Rajendran",
-    "name": "",
-    "website": "",
-    "summary": "",
+    "name": "Feedback Genie",
+    "website": "https://app-echo-synth.lovable.app/",
+    "summary": "This is an AI-powered App Store review analyzer that fetches iOS app reviews and automatically generates comprehensive insights including sentiment analysis, pain points, feature requests, trends, and improvement opportunities.",
     "category": "Work"
   },
   {
@@ -390,5 +390,13 @@
     "website": "https://chatea.lovable.app/",
     "summary": "ChaTea bridges the Chinese tea discovery gap by matching tea-curious beginners with teas they'll love through personalized taste-matching and brewing guidance, while helping seasoned drinkers validate quality through community-validated, tea-specific reviews.  It solves for both the \"where do I start?\" and \"is this tea actually good?\" problems in one accessible platform.",
     "category": "Everyday Life"
+  },
+  {
+    "n": 50,
+    "developer": "David Low",
+    "name": "Legal/Tech Compass",
+    "website": "https://legaltechcompass.legalrobot.online/",
+    "summary": "Legal/Tech Compass is a web-based platform designed to help lawyers, in-house teams, and legal operations professionals discover, evaluate, and effectively use digital and AI tools that can enhance their legal workflows.",
+    "category": "Work"
   }
 ]
